@@ -12,6 +12,14 @@ For information about **OmenMon**, visit [https://omenmon.github.io/](https://om
 * Copyright © 2007-2010 OpenLibSys & Noriyuki Miyazaki
 * Licensed under the terms of the [Modified BSD License](https://openlibsys.org/manual/License.html)
 
+# Icon*.ico, Keyboard.png, Logo.png
+
+**OmenMon logo artwork, icons, and keyboard-layout diagram**
+
+* Copyright © 2023 [Piotr Szczepański](https://piotr.szczepanski.name)
+* Licensed under the terms of the [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* Artwork designed in [Inkscape](https://inkscape.org/) and converted to the `.ico` format with [icoutils](https://www.nongnu.org/icoutils/)
+
 # IoMon.ttf
 
 **A variation of the [Iosevka](https://be5invis.github.io/Iosevka) typeface**
@@ -28,20 +36,9 @@ Modifications for **OmenMon** include in particular:
 
 The following special characters are included:
 
-    ⏮⏪⏴⏫⏶⏸⏹⏺⭘⏻⏽⏯⏷⏬⏩⏵⏭
-    ‹«<⋅·∘∙•÷:.⋄⬥⬦◇⬖⬗⬘⬙⁎*✳🞼🞷⁞⁝>»›
-    ⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻°′″^℃% # @|/🞫×~=-+±_₀₁₂₃₄₅₆₇₈₉₊₋ 
+<img alt="IoMon Special Characters" src="https://omenmon.github.io/pic/iomon-special.png" width="50%" />
 
 As well as the following whitespace sizes: 
 | _En_ | _Em_ | _3-Per-Em_ | _4-Per-Em_ | _6-Per-Em_ |
 |:----:|:----:|:----------:|:----------:|:----------:|
 | > <  | > <  | > <        | > <        | > <        |
-
-
-# Icon*.ico, Keyboard.png, Logo.png
-
-**OmenMon logo artwork, icons, and keyboard-layout diagram**
-
-* Copyright © 2023 [Piotr Szczepański](https://piotr.szczepanski.name)
-* Licensed under the terms of the [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-* Artwork designed in [Inkscape](https://inkscape.org/) and converted to the `.ico` format with [icoutils](https://www.nongnu.org/icoutils/)
