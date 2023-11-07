@@ -8,13 +8,13 @@ For information about **OmenMon**, visit [https://omenmon.github.io/](https://om
 
 # Driver.sys.gz
 
-_WinRing0_ driver binary from [OpenLibSys](https://openlibsys.org/manual/WhatIsWinRing0.html)
+**_WinRing0_ driver binary from [OpenLibSys](https://openlibsys.org/manual/WhatIsWinRing0.html)**
 * Copyright © 2007-2010 OpenLibSys & Noriyuki Miyazaki
 * Licensed under the terms of the [Modified BSD License](https://openlibsys.org/manual/License.html)
 
 # IoMon.ttf
 
-A variation of the [Iosevka](https://be5invis.github.io/Iosevka) typeface
+**A variation of the [Iosevka](https://be5invis.github.io/Iosevka) typeface**
   * Copyright © 2015-2023 [Renzhi Li](https://typeof.net/) (aka Belleve Invis)
   * Licensed under the [SIL Open Font License 1.1](https://scripts.sil.org/OFL)
 
@@ -40,7 +40,7 @@ As well as the following whitespace sizes:
 
 # Icon*.ico, Keyboard.png, Logo.png
 
-**OmenMon** logo artwork, icons, and keyboard-layout diagram.
+**OmenMon logo artwork, icons, and keyboard-layout diagram**
 
 * Copyright © 2023 [Piotr Szczepański](https://piotr.szczepanski.name)
 * Licensed under the terms of the [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)
