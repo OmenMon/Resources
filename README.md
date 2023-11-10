@@ -12,7 +12,7 @@ For information about **OmenMon**, visit [https://omenmon.github.io/](https://om
 * Copyright © 2007-2010 OpenLibSys & Noriyuki Miyazaki
 * Licensed under the terms of the [Modified BSD License](https://openlibsys.org/manual/License.html)
 
-# Icon*.ico, Keyboard.png, Logo.png
+# Icon*.ico, Keyboard*.png, Logo.png
 
 **OmenMon logo artwork, icons, and keyboard-layout diagram**
 
